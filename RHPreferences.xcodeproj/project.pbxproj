@@ -476,6 +476,7 @@
 				INFOPLIST_FILE = "RHPreferences/RHPreferences-Info.plist";
 				INSTALL_PATH = "@executable_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Debug;
@@ -492,6 +493,7 @@
 				INFOPLIST_FILE = "RHPreferences/RHPreferences-Info.plist";
 				INSTALL_PATH = "@executable_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Release;
